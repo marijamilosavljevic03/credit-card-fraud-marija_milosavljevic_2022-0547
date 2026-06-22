@@ -18,10 +18,10 @@ Struktura dataseta:
 
 
 284,807 transakcija, 31 kolona 
-Time — vreme proteklo od prve transakcije u datasetu (u sekundama)
-V1–V28 — anonimizovane numeričke karakteristike dobijene PCA transformacijom originalnih podataka (zbog zaštite privatnosti korisnika, banka nije objavila originalna značenja ovih kolona)
-Amount — iznos transakcije 
-Class — ciljna promenljiva: 0 = legitimna transakcija, 1 = prevara
+Time:vreme proteklo od prve transakcije u datasetu (u sekundama)
+V1–V28: anonimizovane numeričke karakteristike dobijene PCA transformacijom originalnih podataka (zbog zaštite privatnosti korisnika, banka nije objavila originalna značenja ovih kolona)
+Amount: iznos transakcije 
+Class: ciljna promenljiva: 0 = legitimna transakcija, 1 = prevara
 
 
 Raspodela klasa:
